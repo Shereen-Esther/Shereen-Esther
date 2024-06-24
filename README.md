@@ -1,6 +1,4 @@
-## Hi there 👋
-## I am Shereen
-
+## Hi there 👋 I am Shereen
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning C#, .NET and React.js
 - 👯 I’m looking to collaborate on React.js
